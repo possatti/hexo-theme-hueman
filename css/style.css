@@ -80,7 +80,6 @@
 .article-entry ol,
 .widget dl,
 .article-entry dl {
-  margin: 0 30px;
   line-height: 1.6em;
 }
 .widget ul ul,
@@ -97,14 +96,17 @@
 .widget ul,
 .article-entry ul {
   list-style: disc;
+  list-style-position: inside;
 }
 .widget ol,
 .article-entry ol {
   list-style: decimal;
+  list-style-position: inside;
 }
 .widget dt,
 .article-entry dt {
   font-weight: bold;
+  list-style-position: inside;
 }
 html,
 body,
