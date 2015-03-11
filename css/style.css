@@ -80,7 +80,7 @@
 .article-entry ol,
 .widget dl,
 .article-entry dl {
-  margin: 0 20px;
+  margin: 0 30px;
   line-height: 1.6em;
 }
 .widget ul ul,
@@ -262,7 +262,9 @@ body {
   padding: 10px 0;
   width: 165px;
   height: 60px;
-  background: url("images/logo-header.png") 0px 10px no-repeat;
+  background-image: url("images/logo-header.png");
+  background-position: 0px 10px;
+  background-repeat: no-repeat;
   -webkit-background-size: 165px 60px;
   -moz-background-size: 165px 60px;
   background-size: 165px 60px;
