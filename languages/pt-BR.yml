@@ -1,0 +1,25 @@
+index:
+  home: 'início'
+  search: 'Buscar'
+  archive: 'arquivo'
+  category: 'categoria : '
+  uncategorized: 'sem categoria'
+  tag: 'tag : '
+nav:
+  current_page:
+    other: 'Página %d '
+  total_page:
+    other: 'de %d'
+sidebar:
+  follow: 'siga'
+  newer: 'mais novo'
+  older: 'mais velho'
+  recents: 'recentes'
+  archives: 'arquivos'
+  categories: 'categorias'
+  links: 'links'
+  tags: 'tags'
+  tag_cloud: 'tag cloud'
+article:
+  comments: 'Comentários'
+  share: 'Compartilhar'
